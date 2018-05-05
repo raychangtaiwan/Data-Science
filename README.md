@@ -1,2 +1,1 @@
-#Fintech Thesis
 Fintech Thesis
